@@ -1,0 +1,2 @@
+MyModels/001_1/001.obj
+MyModels/002_1/002.obj
