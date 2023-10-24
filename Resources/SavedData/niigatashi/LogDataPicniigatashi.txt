@@ -1,0 +1,11 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/新潟県立近代美術館/KoideNarashige-1930-Naked_Body_on_Sofa(Naked_Female_B).png	-58.5,37.5,70	0,0,1	0,1,0	-1,0,0	-26.91388	-10.5	0.2	2	Metal	-1:-1	0
+2	./Images/新潟県立近代美術館/wrk_1_auth.png	-58.5,37.5,70	0,0,1	0,1,0	-1,0,0	-7.269538	-18.09149	0.2	1	Wooden_thin2	-1:-1	1
+3	./Images/新潟県立近代美術館/KoyamaShōtarō-1881-Cherry_Blossoms_in_Sendai.png	-58.5,37.5,100	0,0,1	0,1,0	-1,0,0	19.1209	-10.5	0.2	1.7	MetalGold	-1:-1	2
+4	./Images/新潟県立近代美術館/wrk_2_auth.png	-58.5,37.5,100	0,0,1	0,1,0	-1,0,0	39.8281	-16.3275	0.2	1	Wooden_thin2	-1:-1	3
+5	./Images/新潟県立近代美術館/Monet_-_Frost_on_the_Plains_of_Colombes_1873.jpg	0,37.5,197.5	1,0,0	0,1,0	0,0,1	-9.377719	-10.5	0.2	4	Wooden_thin2	-1:-1	4
+6	./Images/新潟県立近代美術館/wrk_3_auth.png	0,37.5,197.5	1,0,0	0,1,0	0,0,1	23.25494	-21.55648	0.2	1	Wooden_thin2	-1:-1	5
+7	./Images/新潟県立近代美術館/nakamura.png	58.5,37.5,100	0,0,-1	0,1,0	1,0,0	-44.12358	-10.5	0.2	1.4	Metal_Vertical	-1:-1	6
+8	./Images/新潟県立近代美術館/wrk_0_auth.png	58.5,37.5,100	0,0,-1	0,1,0	1,0,0	-19.90233	-19.572	0.2	1	Wooden_thin2	-1:-1	7
+10	./Images/新潟県立近代美術館/新潟県立近代美術館1.jpg	58.5,37.5,100	0,0,-1	0,1,0	1,0,0	43.14446	-10.752	0.2	5	Wooden_thin	-1:-1	9
+11	./Images/新潟県立近代美術館/新潟県立近代美術館.jpg	37.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	3.640587	-10.5	0.2	1.4	Wooden_thin	-1:-1	10
