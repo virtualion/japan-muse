@@ -1,2 +1,12 @@
-MyModels/001_1/001.obj
-MyModels/002_1/002.obj
+./Images/tori/dai/五代 黃筌 蘋婆山鳥/img1_1.jpg,
+./Images/tori/dai/五代 黃筌 蘋婆山鳥/スクリーンショット 2023-10-27 104525.png,
+./Images/tori/dai/五代 黃筌 蘋婆山鳥/粉紅鸚嘴.jpg,
+./Images/tori/dai/宋 吳炳 榴開見子/img7_1.jpg,
+./Images/tori/dai/宋 吳炳 榴開見子/スクリーンショット 2023-10-27 104908.png,
+./Images/tori/dai/宋 吳炳 榴開見子/白眉鶲.jpg,
+./Images/tori/dai/宋 徐崇嗣 枇杷綬帶/img3_1.jpg,
+./Images/tori/dai/宋 徐崇嗣 枇杷綬帶/スクリーンショット 2023-10-27 104656.png,
+./Images/tori/dai/宋 徐崇嗣 枇杷綬帶/綬帶.jpg,
+MyModels/boa_s.zip
+MyModels/komodo_s.zip
+MyModels/tengu_s.zip

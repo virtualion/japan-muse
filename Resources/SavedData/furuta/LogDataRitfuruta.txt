@@ -1,0 +1,4 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+2	MyModels/boa_s.zip	0.6399999	0	0.2500002	-21.59999,67.69453,0	0.18	2	3
+3	MyModels/tengu_s.zip	5.02	2	1.72	-149.6,88.149,213.9338	0.2	3	5
+5	MyModels/komodo_s.zip	-1.5	0.5	1.13	-47.20004,67.20752,0	0.2	4	8
