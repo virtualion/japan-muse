@@ -1,4 +1,4 @@
 id	data	x	y	z	theta	size	parent	uniqueCode
-2	./Images/tori/dai/五代 黃筌 蘋婆山鳥/img1_1.jpg,	0	3.5	0	0,10.22723,0	1.6	4	29
-4	./Images/tori/dai/宋 吳炳 榴開見子/img7_1.jpg,	0	3.5	0	0,13.14929,0	1.6	5	35
-7	./Images/tori/dai/宋 徐崇嗣 枇杷綬帶/img3_1.jpg,	-0.49	3	0.31	0,12.17527,0	1.6	6	40
+2	Images/tori/dai/五代_黃筌_蘋婆山鳥/img1_1.jpg,Wooden_thin2	0	3.5	0	0,10.22723,0	1.6	4	29
+4	Images/tori/dai/宋_吳炳_榴開見子/img7_1.jpg,Wooden_thin2	0	3.5	0	0,13.14929,0	1.6	5	35
+7	Images/tori/dai/宋_徐崇嗣_枇杷綬帶/img3_1.jpg,Wooden_thin2	-0.49	3	0.31	0,12.17527,0	1.6	6	40
