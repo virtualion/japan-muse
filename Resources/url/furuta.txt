@@ -1,2 +1,2 @@
-#root=https://virtualion.github.io/japan-muse/Resources/
+#root=https://virtualion.github.io/user/
 #prj=furuta
