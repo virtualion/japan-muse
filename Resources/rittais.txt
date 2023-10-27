@@ -10,3 +10,4 @@
 MyModels/boa_s.zip
 MyModels/komodo_s.zip
 MyModels/tengu_s.zip
+MyModels/book/book.obj
