@@ -1,0 +1,8 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+2	./Images/山形美術館/1000.jpg	0,45,118.5	1,0,0	0,1,0	0,0,1	-0.9448398	-18	0.2	4	Wooden_thin	-1:-1	1
+3	./Images/山形美術館/wrk_0_auth.png	0,45,118.5	1,0,0	0,1,0	0,0,1	30.7074	-18	0.2	1	Wooden_thin2	-1:-1	2
+4	./Images/山形美術館/1001.jpg	-58.5,45,60	0,0,1	0,1,0	-1,0,0	-6.345433	-20.14199	0.2	6	Wooden_thin	-1:-1	3
+5	./Images/山形美術館/wrk_1_auth.png	-58.5,45,60	0,0,1	0,1,0	-1,0,0	45.75061	-19.54349	0.2	1	Wooden_thin2	-1:-1	4
+6	./Images/山形美術館/1002.jpg	58.5,45,60	0,0,-1	0,1,0	1,0,0	0.7532906	-17.559	0.2	11	Wooden_thin	-1:-1	5
+7	./Images/山形美術館/wrk_2_auth.png	37.5,45,0.5	-1,0,0	0,1,0	0,0,-1	-5.629553	-18.9765	0.2	1	Wooden_thin	-1:-1	6
+8	./Images/山形美術館/title.jpg	-37.5,45,0.5	-1,0,0	0,1,0	0,0,-1	-2.412684	-18.0315	0.2	2	Wooden_thin	-1:-1	7

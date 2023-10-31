@@ -1,0 +1,8 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/西宮市大谷記念美術館/1000.jpg	0,45,118.5	1,0,0	0,1,0	0,0,1	-7.291873	-19.008	0.2	3	Wooden_thin	-1:-1	0
+2	./Images/西宮市大谷記念美術館/wrk_0_auth.png	0,45,118.5	1,0,0	0,1,0	0,0,1	19.28159	-18.504	0.2	1	Wooden_thin2	-1:-1	1
+5	./Images/西宮市大谷記念美術館/1002.jpg	-58.5,45,60	0,0,1	0,1,0	-1,0,0	-6.505072	-18.1575	0.2	2	Wooden_thin	-1:-1	4
+6	./Images/西宮市大谷記念美術館/wrk_2_auth.png	-58.5,45,60	0,0,1	0,1,0	-1,0,0	20.55565	-18	0.2	1	Wooden_thin2	-1:-1	5
+9	./Images/西宮市大谷記念美術館/title.jpg	-37.5,45,0.5	-1,0,0	0,1,0	0,0,-1	-2.125843	-18	0.2	2	Wooden_thin	-1:-1	8
+10	./Images/西宮市大谷記念美術館/1001.png	58.5,45,60	0,0,-1	0,1,0	1,0,0	-12.62876	-18.0315	0.2	3	Metal	-1:-1	2
+11	./Images/西宮市大谷記念美術館/wrk_1_auth.png	58.5,45,60	0,0,-1	0,1,0	1,0,0	16.93991	-18	0.2	1	Wooden_thin2	-1:-1	3

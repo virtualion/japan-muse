@@ -1,4 +1,0 @@
-0	https://upload.wikimedia.org/wikipedia/commons/d/dc/Fukuzawa_Ichiro_Memorial_Museum_1.jpg
-1	https://upload.wikimedia.org/wikipedia/commons/4/4d/Gunma_Museum_Of_Natural_History_and_Tomioka_Kabura_Bunka_Hall.jpg
-2	https://upload.wikimedia.org/wikipedia/commons/b/bd/Myogi_Furusato_Art_Museum_2.jpg
-3	https://upload.wikimedia.org/wikipedia/commons/c/cf/Tomioka_Art_Museum.jpg

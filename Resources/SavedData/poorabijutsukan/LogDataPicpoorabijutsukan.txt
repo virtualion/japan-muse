@@ -1,0 +1,10 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/ポーラ美術館/1000.jpg	-78,45,60	0,0,1	0,1,0	-1,0,0	-7.545599	-18	0.2	2	Metal	-1:-1	0
+2	./Images/ポーラ美術館/wrk_0_auth.png	-78,45,60	0,0,1	0,1,0	-1,0,0	19.94124	-18	0.2	1	Wooden_thin2	-1:-1	1
+5	./Images/ポーラ美術館/1001.jpg	0,45,118.5	1,0,0	0,1,0	0,0,1	-31.78305	-18	0.2	1.2	Metal_Vertical	-1:-1	4
+6	./Images/ポーラ美術館/wrk_1_auth.png	0,45,118.5	1,0,0	0,1,0	0,0,1	-10.69845	-18	0.2	1	Wooden_thin2	-1:-1	5
+7	./Images/ポーラ美術館/1002.jpg	0,45,118.5	1,0,0	0,1,0	0,0,1	20.23627	-17.496	0.2	1.5	Metal	-1:-1	6
+9	./Images/ポーラ美術館/wrk_2_auth.png	0,45,118.5	1,0,0	0,1,0	0,0,1	38.4834	-18	0.2	1	Wooden_thin2	-1:-1	8
+10	./Images/ポーラ美術館/1003.jpg	78,45,60	0,0,-1	0,1,0	1,0,0	-7.20011	-18.0315	0.2	2	Wooden_thin2	-1:-1	9
+11	./Images/ポーラ美術館/wrk_3_auth.png	78,45,60	0,0,-1	0,1,0	1,0,0	14.45474	-18	0.2	1	Wooden_thin2	-1:-1	10
+12	./Images/ポーラ美術館/title.jpg	-47.5,45,0.5	-1,0,0	0,1,0	0,0,-1	-5.802143	-18	0.2	2	Wooden_thin2	-1:-1	11

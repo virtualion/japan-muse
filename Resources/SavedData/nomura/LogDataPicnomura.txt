@@ -1,0 +1,10 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/野村美術館/1000.jpg	0,45,118.5	1,0,0	0,1,0	0,0,1	-25.78237	-19.92149	0.2	5	Wooden_thin	-1:-1	0
+2	./Images/野村美術館/wrk_0_auth.png	0,45,118.5	1,0,0	0,1,0	0,0,1	6.492589	-30.6	0.2	1	Wooden_thin2	-1:-1	1
+3	./Images/野村美術館/1001.jpg	0,45,118.5	1,0,0	0,1,0	0,0,1	24.02551	-19.0395	0.2	2	Wooden_thin	-1:-1	2
+4	./Images/野村美術館/wrk_1_auth.png	0,45,118.5	1,0,0	0,1,0	0,0,1	43.04317	-19.1025	0.2	1	Wooden_thin2	-1:-1	3
+5	./Images/野村美術館/1002.jpg	-58.5,45,60	0,0,1	0,1,0	-1,0,0	-3.134571	-15.07049	0.2	2.5	Wooden_thin	-1:-1	4
+6	./Images/野村美術館/wrk_2_auth.png	-58.5,45,60	0,0,1	0,1,0	-1,0,0	18.98066	-21.11849	0.2	1	Wooden_thin2	-1:-1	5
+7	./Images/野村美術館/1003.jpg	58.5,45,60	0,0,-1	0,1,0	1,0,0	-2.194424	-14.157	0.2	4	Wooden_thin	-1:-1	6
+8	./Images/野村美術館/wrk_3_auth.png	58.5,45,60	0,0,-1	0,1,0	1,0,0	31.54371	-19.29149	0.2	1	Wooden_thin2	-1:-1	7
+9	./Images/野村美術館/title.jpg	-37.5,45,0.5	-1,0,0	0,1,0	0,0,-1	-2.125843	-18	0.2	2	Wooden_thin	-1:-1	8
