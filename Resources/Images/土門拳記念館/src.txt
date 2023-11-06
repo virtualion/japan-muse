@@ -1,0 +1,11 @@
+@new
+::title#
+岡本太郎
+::auth#
+
+::cnt#
+
+
+::desc#
+
+

@@ -1,0 +1,11 @@
+@new
+::title#
+紙帳
+::auth#
+竹久夢二
+::cnt#
+
+
+::desc#
+
+

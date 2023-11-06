@@ -1,0 +1,11 @@
+@new
+::title#
+幸彦像
+::auth#
+青木 繁
+::cnt#
+
+
+::desc#
+
+
