@@ -1,0 +1,8 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/尾道市立美術館/1000.jpg	0,30,118.5	1,0,0	0,1,0	0,0,1	-1.991329	-3.5985	0.2	3	Wooden_thin	-1:-1	0
+2	./Images/尾道市立美術館/wrk_0_auth.png	0,30,118.5	1,0,0	0,1,0	0,0,1	26.68984	-12.513	0.2	1	Wooden_thin2	-1:-1	1
+5	./Images/尾道市立美術館/1002.jpg	58.5,30,60	0,0,-1	0,1,0	1,0,0	-0.9391441	-3	0.2	1.7	Wooden_thin	-1:-1	4
+6	./Images/尾道市立美術館/1001.jpg	-58.5,30,60	0,0,1	0,1,0	-1,0,0	5.869764	-3.252001	0.2	2	Wooden_thin	-1:-1	5
+7	./Images/尾道市立美術館/wrk_1_auth.png	-58.5,30,60	0,0,1	0,1,0	-1,0,0	37.50869	-14.466	0.2	1	Wooden_thin2	-1:-1	6
+8	./Images/尾道市立美術館/wrk_2_auth.png	58.5,30,60	0,0,-1	0,1,0	1,0,0	23.21934	-3	0.2	1	Wooden_thin2	-1:-1	7
+9	./Images/尾道市立美術館/title.jpg	-37.5,30,0.5	-1,0,0	0,1,0	0,0,-1	-4.012474	-3	0.2	1	Wooden_thin2	-1:-1	8
