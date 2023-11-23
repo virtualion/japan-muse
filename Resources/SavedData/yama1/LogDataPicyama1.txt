@@ -1,0 +1,4 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+1	./Images/山種美術館/1001.jpg	0,30,59.25	1,0,0	0,1,0	0,0,1	9.662026	-3.661499	0.2	2	Metal	-1:-1	0
+2	./Images/山種美術館/1002.jpg	-14.38126,31.84,30.16743	-0.5620832,0,0.8270807	0,1,0	-0.8270807,0,-0.5620832	-4.619663	-5.091999	0.2	2	Wooden_thin2	1:1	2
+4	./Images/山種美術館/1003.jpg	-78,30,30	0,0,1	0,1,0	-1,0,0	3.448627	-3	0.2	1	Metal_Vertical	-1:-1	4
