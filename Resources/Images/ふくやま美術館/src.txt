@@ -1,0 +1,44 @@
+@new
+::title#
+百花百鳥之図
+::auth#
+藤井 松林
+::cnt#
+1889年
+
+::desc#
+
+
+@new
+::title#
+花と少年
+::auth#
+小林 徳三郎
+::cnt#
+1931年
+
+::desc#
+
+
+@new
+::title#
+雪
+::auth#
+大村 廣陽
+::cnt#
+1929年
+
+::desc#
+
+
+@new
+::title#
+魚心暖冬
+::auth#
+金島 桂華
+::cnt#
+1936年
+
+::desc#
+
+
