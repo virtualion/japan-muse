@@ -1,0 +1,44 @@
+@new
+::title#
+ラスト・コスモロジー　月の軌跡
+::auth#
+川田 喜久治
+::cnt#
+1989
+
+::desc#
+
+
+@new
+::title#
+白い土
+::auth#
+赤穴 宏
+::cnt#
+1958
+
+::desc#
+
+
+@new
+::title#
+魂の安息日
+::auth#
+中江 紀洋
+::cnt#
+1991
+
+::desc#
+
+
+@new
+::title#
+建築古事記―曼陀羅2（火）
+::auth#
+毛綱 毅曠
+::cnt#
+1984
+
+::desc#
+
+

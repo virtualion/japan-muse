@@ -1,0 +1,44 @@
+@new
+::title#
+青いローブの少女
+::auth#
+清水 多嘉示
+::cnt#
+1925
+
+::desc#
+
+
+@new
+::title#
+横たわる少女
+::auth#
+清水 多嘉示
+::cnt#
+1925
+
+::desc#
+
+
+@new
+::title#
+白装束の娘
+::auth#
+清水 多嘉示
+::cnt#
+1927
+
+::desc#
+
+
+@new
+::title#
+竹秀
+::auth#
+津金隺仙
+::cnt#
+不明
+
+::desc#
+
+

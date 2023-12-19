@@ -1,0 +1,44 @@
+@new
+::title#
+ダリア
+::auth#
+倉光 博之
+::cnt#
+1960
+
+::desc#
+
+
+@new
+::title#
+花鳥図
+::auth#
+市野 亨
+::cnt#
+不明
+
+::desc#
+
+
+@new
+::title#
+カラスの祭典(B)
+::auth#
+岡田 徹
+::cnt#
+1976
+
+::desc#
+
+
+@new
+::title#
+揚巻玉三萬
+::auth#
+加藤 正音
+::cnt#
+1985
+
+::desc#
+
+

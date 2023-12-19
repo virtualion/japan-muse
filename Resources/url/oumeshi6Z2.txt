@@ -1,0 +1,2 @@
+#root=https://virtualion.github.io/japan-muse/Resources/
+#prj=oumeshi6Z2

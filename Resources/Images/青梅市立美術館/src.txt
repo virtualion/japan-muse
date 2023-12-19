@@ -1,0 +1,44 @@
+@new
+::title#
+浅野游子作品展
+::auth#
+－
+::cnt#
+展覧会チラシ写真
+
+::desc#
+
+
+@new
+::title#
+屋久島所見
+::auth#
+後藤 芳仙
+::cnt#
+不明
+
+::desc#
+
+
+@new
+::title#
+苗園(春苑)
+::auth#
+小山 大月
+::cnt#
+1931
+
+::desc#
+
+
+@new
+::title#
+老梅樹(宝珠梅)
+::auth#
+岩崎 巴人
+::cnt#
+1970
+
+::desc#
+
+
