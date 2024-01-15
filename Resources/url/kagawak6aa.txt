@@ -1,2 +1,0 @@
-#root=https://virtualion.github.io/japan-muse/Resources/
-#prj=kagawak6aa
